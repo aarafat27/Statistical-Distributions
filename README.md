@@ -3,7 +3,8 @@ Imagine you are managing a large delivery network like Amazon. Each day, million
 
 This need to understand distributions isn’t limited to logistics. In AI, we frequently use statistical distributions to model uncertainties, generate realistic data, and develop models that mimic human decision-making.
 
-![napkin-selection (62)](https://github.com/user-attachments/assets/7ef29f8e-38ef-4f12-99ff-aeaca857d9f9)
+![napkin-selection (58)](https://github.com/user-attachments/assets/07c4a198-ae7a-42f4-9493-1e9115d6f22b)
+
 <p align="center">Image created by the author</p>
 
 # 📌 What Is a Statistical Distribution?
