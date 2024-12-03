@@ -1,4 +1,4 @@
-# 🚀 Statistical-Distributions
+# 🚀 Statistical Distributions
 Imagine you are managing a large delivery network like Amazon. Each day, millions of packages are being shipped globally, with varying delivery times. Some are delivered within a day, others take a week. Managing this efficiently requires understanding patterns: what proportion of packages arrive within 2 days? What about late deliveries? Without understanding these patterns—or distributions—it would be impossible to optimize delivery routes, manage inventory, or predict future demand.
 
 This need to understand distributions isn’t limited to logistics. In AI, we frequently use statistical distributions to model uncertainties, generate realistic data, and develop models that mimic human decision-making.
